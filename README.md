@@ -1,5 +1,4 @@
 # IoT-Agriculture-2024
-
 Lets use some basic data science to learn git!
 
 # Good practices
@@ -45,5 +44,4 @@ Lets use some basic data science to learn git!
 - kagglehub
 
 # Using an IDE like Visual Studio Code, PyCharm or Jupyter Notebook is best
-
 - I would avoid install packages within the IDE, use the terminal instead
