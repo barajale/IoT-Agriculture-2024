@@ -1,5 +1,5 @@
 # IoT-Agriculture-2024
-lets basic some basic data science while learning git!
+let's review basic data science while learning git!
 
 # Good practices
 - Always pull before you push
